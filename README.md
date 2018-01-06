@@ -1,0 +1,2 @@
+# standup
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/95bd6c199bfe46e48e79805cc28bd971)](https://www.codacy.com/app/wawrzyniakinfo/standup?utm_source=github.com&utm_medium=referral&utm_content=wawrzyniakinfo/standup&utm_campaign=badger)
